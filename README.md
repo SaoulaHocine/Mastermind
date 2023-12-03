@@ -56,7 +56,7 @@ Feel free to experiment with these parameters to make the game easier or more ch
 
 ## About
 
-This Mastermind console game is written in Java and serves as a simple implementation of the classic board game. It was created by [Your Name] as a fun programming exercise.
+This Mastermind console game is written in Java and serves as a simple implementation of the classic board game. It was created by SAOULA HOCINE as a fun programming exercise.
 
 ## Acknowledgments
 
